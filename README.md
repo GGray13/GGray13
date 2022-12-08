@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @GGray13
-- 🌱 I’m currently learning java, SQL, HTML, JavaScript, CSS
+- 🌱 I’m currently learning Java, SQL, HTML, JavaScript, CSS
 - 📫 How to reach me: gregor.gray@hotmail.com
